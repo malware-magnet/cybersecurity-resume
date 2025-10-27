@@ -56,17 +56,17 @@ Information Security (140 hours)
 
 SQL Server 2000, HTML/CSS, C programming
 
-Google Cybersecurity Certificates – Coursera (2025)
+**Google Cybersecurity Certificates – Coursera (2025)**
 
 Foundations of Cybersecurity [verify](https://www.coursera.org/account/accomplishments/verify/982EEO8VTU2I)
 
-Connect and Protect: Networks and Network Security verify
+Connect and Protect: Networks and Network Security [verify](https://www.coursera.org/account/accomplishments/verify/7P4RQ5J77YT5)
 
-Play It Safe: Manage Security Risks verify
+Play It Safe: Manage Security Risks [verify](https://www.coursera.org/account/accomplishments/verify/8IW5WNT7MNAO)
 
-Tools of the Trade: Linux and SQL verify
+Tools of the Trade: Linux and SQL [verify](https://www.coursera.org/account/accomplishments/verify/PE31BIAS8BQZ)
 
-Assets, Threats, and Vulnerabilities verify
+Assets, Threats, and Vulnerabilities [verify](https://www.coursera.org/account/accomplishments/verify/Z0TMF0RWPEKL)
 
 🎖️ Security & Military Experience
 
