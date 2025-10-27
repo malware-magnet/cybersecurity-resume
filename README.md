@@ -100,11 +100,6 @@ Supported operational planning and situational reporting
 
 🎓 Education
 
-
-
-
-
-
 Bachelor’s Degree in Finance & Economics – Dnipropetrovsk National University of Oles Gonchar (2012–2015)
 
 Associate Degree in Accounting – Dnipropetrovsk National College of Oles Gonchar (2010–2012)
