@@ -58,7 +58,7 @@ SQL Server 2000, HTML/CSS, C programming
 
 Google Cybersecurity Certificates – Coursera (2025)
 
-Foundations of Cybersecurity verify
+Foundations of Cybersecurity [verify](https://www.coursera.org/account/accomplishments/verify/982EEO8VTU2I)
 
 Connect and Protect: Networks and Network Security verify
 
